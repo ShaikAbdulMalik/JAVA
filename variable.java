@@ -1,5 +1,5 @@
 public class variable {
-    public static void main(mix[] args){
+    public static void main(String[] args){
          //int x; //declarration
          //x=1223; //assignment
          // int x = 1223; declaration+assignment
@@ -7,7 +7,7 @@ public class variable {
          //double z = 3.1234567;
          //boolean b = true/false;
          //char symbol = '@';
-         mix name = "Abdul Malik";   
+         String name = "Abdul Malik";   
         System.out.println("my name is: "+name);
     }
 }
